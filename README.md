@@ -96,5 +96,4 @@ All content is © Easy Solar Guide, 2025. You are welcome to share or reference 
 
 ---
 
-> 🌞 **Go Solar. Save Money. Live Sustainably.**
-```
+🌞 **Go Solar. Save Money. Live Sustainably.**
