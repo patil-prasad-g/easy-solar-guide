@@ -1,14 +1,13 @@
-# easy-solar-guide
-A curated list of solar energy resources, articles, and guides. Learn how solar panels work, save electricity, and explore green living tips.
-
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
+# Easy Solar Guide – Your Trusted Resource for Solar Power
+
+Welcome to the GitHub companion to [EasySolarGuide.com](https://easysolarguide.com), a blog dedicated to helping homeowners embrace clean, affordable solar energy.
 
 
-```markdown
 # 🌞 Easy Solar Guide – Your Ultimate Solar Power Resource
 
-Welcome to the official GitHub resource hub for [EasySolarGuide.com](https://easysolarguide.com) – your go-to blog for **solar energy tips**, **cost-saving guides**, and everything you need to know about **residential solar power** in the USA.
+Welcome to the official GitHub resource hub for [EasySolarGuide.com](https://easysolarguide.com) – your go-to blog for **solar energy tips**, **cost-saving guides**, and everything you need to know about **residential solar power**.
 
 We help homeowners, eco-conscious individuals, and green energy enthusiasts make smarter, cleaner, and more cost-efficient energy choices.
 
@@ -99,7 +98,3 @@ All content is © Easy Solar Guide, 2025. You are welcome to share or reference 
 
 > 🌞 **Go Solar. Save Money. Live Sustainably.**
 ```
-
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-
